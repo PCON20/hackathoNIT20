@@ -12,7 +12,7 @@ import ProfilePage from "views/ProfilePage/ProfilePage.js";
 import LoginPage from "views/LoginPage/LoginPage.js";
 
 var hist = createBrowserHistory();
-
+console.log('index js file');
 ReactDOM.render(
   <Router history={hist}>
     <Switch>
