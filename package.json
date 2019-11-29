@@ -1,7 +1,7 @@
 {
-  "name": "material-kit-react",
-  "version": "1.8.0",
-  "description": "Material Kit React. Coded by Creative Tim",
+  "name": "hackathoN.IT",
+  "version": "1.0.0",
+  "description": "hackathoN.IT",
   "private": true,
   "main": "dist/index.js",
   "dependencies": {
